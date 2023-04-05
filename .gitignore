@@ -2,3 +2,4 @@ node_modules/
 dump.rdb
 db/mongo-volume/*
 .env
+ping
